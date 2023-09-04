@@ -20,13 +20,12 @@ Before using this project, ensure you have the following prerequisites installed
 - PHP (version 7.0 or higher)
 - MySQL database server
 - Web browser
-![form]https://drive.google.com/file/d/1HF16That6Pm35QUngwDGCbme6U02qzO_/view?usp=sharing
 
-![filling records](https://drive.google.com/file/d/1qv9ktFsnYUUUXs_bkJfHdpH1Y5pFlJza/view?usp=sharing)
+![Screenshot 2023-09-04 183856](https://github.com/Anurag21102000/US_TRIP_FORM/assets/83533123/380629d5-55cd-48b3-b853-262e3b5a5b32)
 
-![after submission](https://drive.google.com/file/d/1F4HBSSGfe9Pg7UN4FH4BVaCci5Ld8NBd/view?usp=sharing)
+![Screenshot 2023-09-04 183932](https://github.com/Anurag21102000/US_TRIP_FORM/assets/83533123/87fafbf8-f2f7-4ee4-bf3b-b45c92196065)
 
-![In database](https://drive.google.com/file/d/1jcbvIPLxTgbnGvoEyzlyeWt54ELoqXB6/view)
+![Screenshot 2023-09-04 183952](https://github.com/Anurag21102000/US_TRIP_FORM/assets/83533123/034e38a4-3489-441b-bce9-61f579ed4d3b)
 
-
+![Screenshot 2023-09-04 184012](https://github.com/Anurag21102000/US_TRIP_FORM/assets/83533123/cb79e0a6-462c-46e4-8471-a1d32673f975)
 
